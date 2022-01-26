@@ -33,9 +33,7 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 
 ### Skills
 
-**Languages** - Ruby (Rspec, Ruby on Rails, Capybara; 4kyu on Codewars), JavaScript (React, Node, Jest, Express; 5kyu on Codewars), SQL, HTML, CSS, SCSS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Languages** - JavaScript (React, Node, Jest, Express; 5kyu on Codewars), Ruby (Rspec, Ruby on Rails, Capybara; 4kyu on Codewars), SQL, HTML, CSS, SCSS
 
 **Understanding client needs and rapidly responding** - as an account handler, regularly took client briefs (written and spoken), quickly identified questions and issues, formulated solutions, discussed with clients and actioned under tight timelines. Example: a prospective client was disatisfied with her current agency, I responded to her briefs, offered insights and produced an action plan rapidly and to an exceptional standard. Because of this, she skipped the usual procurement process and hired our agency outright, no pitch required.
 
