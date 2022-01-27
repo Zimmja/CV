@@ -31,13 +31,19 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 | [**Thermostat**](https://github.com/Zimmja/Makers-challenge-Thermostat) | Pairing challenge: create and test-drive a simple JavaScript program using Node | We created a thermostat that could be interacted with via the command line and utilise API calls from OpenWeather to receive and display real-world info | JavaScript, Node, Jest, APIs |
 | [**RPS Game**](https://github.com/Zimmja/Makers-challenge-RPS) | Solo challenge: create a game that is playable in a web browser | Tasked with creating a Rock, Paper, Scissors (RPS) style game. Finished quickly and was able to stretch myself to a 16-item game (instead of the 3-item RPS game) | Ruby, Sinatra, Capybara, Selenium Webdriver, HTML, CSS, Rspec, Rubocop|
 
-### Skills
+### Tech stack
 
-**Programming languages** - JavaScript (Jest testing), Ruby (Rspec testing), Papyrus
-</br>**Frameworks** - Ruby on Rails (Capybara), React, ExpressJS
-</br>**Tools/Other** - Git, GitHub, Command-line, HTML, CSS, Sass, SQL (PostgreSQL, TablePlus)
+- JavaScript (React, Node, Express, Jest)
+- Ruby (Rails, Sinatra, Rspec, Capybara)
+- Papyrus (Skyrim Creation Kit)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS, Sass
+- Heroku
+- Git, GitHub, Command-line
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact&langs_count=3&hide=html&exclude_repo=acebook-blue-magpies)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills
 
 **Understanding client needs and rapidly responding** - as an account handler, regularly took client briefs (written and spoken), quickly identified questions and issues, formulated solutions, discussed with clients and actioned under tight timelines. Example: a prospective client was dissatisfied with her current agency, I responded to her briefs, offered insights and produced an action plan rapidly and to an exceptional standard. Because of this, she skipped the usual procurement process and hired our agency outright, no pitch required.
 
