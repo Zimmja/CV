@@ -1,4 +1,4 @@
-# Matt Zimmer
+## Matt Zimmer
 
 #### Me at a glance
 
@@ -6,17 +6,17 @@ Aspiring junior developer; amateur background in developing video-game plugins (
 
 #### How I got here
 
-Through my self-taught hobby of developing video game plugins (aka mods), I discovered a love for wrestling with a programming language to make my ideas a reality. Disatisfied with healthcare advertising, I left my Account Director role in 2021 to develop my hobby-acquired skills into a more fulfilling, stimulating and challenging career in software development.
+Through my self-taught hobby of developing video game plugins (aka mods), I discovered a love for wrestling with a programming language to make my ideas a reality. Dissatisfied with healthcare advertising, I left my Account Director role in 2021 to develop my hobby-acquired skills into a more fulfilling, stimulating and challenging career in software development.
 
-After several months of self-directed learning, I joined [Makers Academy](https://makers.tech/) to improve my amateur coding skills for use in a professional context, and to learn new skills and langauages to make me a desirable candidate for a future employer. I am now ready for a junior developer role. I am determined and hungry for the challenge, and I am so excited to get started.
+After several months of self-directed learning, I joined [Makers Academy](https://makers.tech/) to improve my amateur coding skills for use in a professional context, and to learn new skills and languages to make me a desirable candidate for a future employer. I am now ready for a junior developer role. I am determined and hungry for the challenge, and I am so excited to get started.
 
 ### My Projects
 
-| Name                                                            | Description                                                                                                                                                                                      | Tech/Tools                                                         |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| [**Heyday**](https://github.com/mhbae-dev/heyday)               | Created with a team during my Makers Academy final project, this web-app help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, HTML, SCSS, Heroku, Vercel |
-| [**Switchwatch**](https://github.com/Zimmja/React-Stopwatch)    | A stopwatch web-app specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                                              | JavaScript, React, Node, HTML, CSS                                 |
-| [**Skyrim modding**](https://github.com/Zimmja/React-Stopwatch) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                   | Papyrus, Skyrim Creation, TES5Edit Kit                             |
+| Name                                                           | Description                                                                                                                                                                                      | Tech/Tools                                                         |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [**Heyday**](https://github.com/mhbae-dev/heyday)              | Created with a team during my Makers Academy final project, this web-app help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, HTML, SCSS, Heroku, Vercel |
+| [**Switchwatch**](https://github.com/Zimmja/React-Stopwatch)   | A stopwatch web-app specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                                              | JavaScript, React, Node, HTML, CSS                                 |
+| [**Skyrim modding**](https://github.com/Zimmja/Skyrim-Scripts) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                   | Papyrus, Skyrim Creation, TES5Edit Kit                             |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimmja)
 
@@ -33,9 +33,11 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 
 ### Skills
 
-**Languages** - JavaScript (React, Node, Jest, Express; 5kyu on Codewars), Ruby (Rspec, Ruby on Rails, Capybara; 4kyu on Codewars), SQL, HTML, CSS, SCSS
+**Languages** - JavaScript (React, Node, Jest, Express; 5kyu on Codewars), Ruby (Rspec, Ruby on Rails, Capybara; 4kyu on Codewars), Papyrus, supported by SQL, HTML, CSS, SCSS
 
-**Understanding client needs and rapidly responding** - as an account handler, regularly took client briefs (written and spoken), quickly identified questions and issues, formulated solutions, discussed with clients and actioned under tight timelines. Example: a prospective client was disatisfied with her current agency, I responded to her briefs, offered insights and produced an action plan rapidly and to an exceptional standard. Because of this, she skipped the usual procurement process and hired our agency outright, no pitch required.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact&langs_count=3&hide=html&exclude_repo=acebook-blue-magpies)](https://github.com/anuraghazra/github-readme-stats)
+
+**Understanding client needs and rapidly responding** - as an account handler, regularly took client briefs (written and spoken), quickly identified questions and issues, formulated solutions, discussed with clients and actioned under tight timelines. Example: a prospective client was dissatisfied with her current agency, I responded to her briefs, offered insights and produced an action plan rapidly and to an exceptional standard. Because of this, she skipped the usual procurement process and hired our agency outright, no pitch required.
 
 **Understanding systems and developing processes** - added value to agency through strong process development. Example: A new system for medical review ([Veeva Vault](https://www.veeva.com/products/enterprise-content-management/)) was launched across the healthcare advertising industry. I rapidly developed processes for using it, allowing our agency to approve advertising materials faster than other agencies. Recognised by clients as experts on the system, and I was asked personally to teach other agencies how to use it.
 
@@ -45,9 +47,9 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 
 #### Learner Adams Bones (LAB)
 
-A small creative agency specialsing in healthcare communications and advertising, including digital solutions for pharmaceutical sales teams and design of web materials, including websites, microsites and advertisements.
+A small creative agency specialising in healthcare communications and advertising, including digital solutions for pharmaceutical sales teams and design of web materials, including websites, microsites and advertisements.
 
-Relevant experince listed below.
+Relevant experience listed below.
 
 _**Account Director**, April 2021_
 </br>• Project management: project planning, finance, internal resource management, digital platform management
@@ -96,6 +98,6 @@ _**Sherborne School** - 2005 - 2010_
 
 ### Hobbies
 
-**Modding** - my main hobby is creating mod plugins for the video game, Skyrim. I am currently working on my 7th update of my most popular mod (over 600K unique downloads), [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
+**Modding** - my main hobby is creating mod plugins for the video game, Skyrim. I've enjoyed some success in this, with 1.6 million unique downloads across 8 mods. I am currently working on my 7th update of my most popular mod, [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
 </br>**Dog walking** - I'm lucky enough to live between three parks in South London, so grabbing a coffee and taking the dog for a walk is a great pleasure of mine
 </br>**Cooking** - my favourite thing to do on a Sunday is spend half the day creating an amazing roast dinner, preferably followed by a glass of wine and a movie
