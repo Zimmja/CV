@@ -6,7 +6,7 @@ Aspiring junior developer; amateur background in developing video-game plugins (
 
 #### How I got here
 
-Through my self-taught hobby of developing video game plugins (aka mods), I discovered a love for wrestling with a programming language to make my ideas a reality. Dissatisfied with healthcare advertising, I left my Account Director role in 2021 to develop my hobby-acquired skills into a more fulfilling, stimulating and challenging career in software development.
+Through my self-taught hobby of developing video game plugins (aka mods), I discovered a love for wrestling with a programming language to bring ideas into reality. Dissatisfied with healthcare advertising, I left my Account Director role in 2021 to develop my hobby-acquired skills into a more fulfilling, stimulating and challenging career in software development.
 
 After several months of self-directed learning, I joined [Makers Academy](https://makers.tech/) to improve my amateur coding skills for use in a professional context, and to learn new skills and languages to make me a desirable candidate for a future employer. I am now ready for a junior developer role. I am determined and hungry for the challenge, and I am so excited to get started.
 
@@ -14,7 +14,7 @@ After several months of self-directed learning, I joined [Makers Academy](https:
 
 | Name                                                           | Description                                                                                                                                                                                      | Tech/Tools                                                         |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| [**Heyday**](https://github.com/mhbae-dev/heyday)              | Created with a team during my Makers Academy final project, this web-app help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, HTML, SCSS, Heroku, Vercel |
+| [**Heyday**](https://github.com/Zimmja/heyday)                 | Created with a team during my Makers Academy final project, this web-app help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, HTML, SCSS, Heroku, Vercel |
 | [**Switchwatch**](https://github.com/Zimmja/React-Stopwatch)   | A stopwatch web-app specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                                              | JavaScript, React, Node, HTML, CSS                                 |
 | [**Skyrim modding**](https://github.com/Zimmja/Skyrim-Scripts) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                   | Papyrus, Skyrim Creation, TES5Edit Kit                             |
 
@@ -33,7 +33,9 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 
 ### Skills
 
-**Languages** - JavaScript (React, Node, Jest, Express; 5kyu on Codewars), Ruby (Rspec, Ruby on Rails, Capybara; 4kyu on Codewars), Papyrus, supported by SQL, HTML, CSS, SCSS
+**Programming languages** - JavaScript (Jest testing), Ruby (Rspec testing), Papyrus
+</br>**Frameworks** - Ruby on Rails (Capybara), React, ExpressJS
+</br>**Tools/Other** - Git, GitHub, Command-line, HTML, CSS, Sass, SQL (PostgreSQL, TablePlus)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact&langs_count=3&hide=html&exclude_repo=acebook-blue-magpies)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -57,7 +59,7 @@ _**Account Director**, April 2021_
 
 _**Senior Account Manager**, Oct 2018 - Mar 2021_
 </br>• Established myself as the in-agency expert on [Veeva Vault](https://www.veeva.com/products/enterprise-content-management/), a content management platform partnered with [Salesforce](https://www.salesforce.com/uk/campaign/sem/salesforce-products/?d=70130000000tQwC&DCMP=KNC-Google&keyword=salesforce&adused=337697992930&gclid=CjwKCAjwzaSLBhBJEiwAJSRoksuixODVmD2FKBBpdd__MX5clbHvJ9r4CLsZGd1JY_sBqoK6tpRy5xoC-i0QAvD_BwE) used throughout the UK pharmaceutical industry. Educated other agencies on my processes for using this software, recognised as best practice by clients
-</br>• Developed a reference management process for regulatory review (used in combination with Veeva Vault), now used by several agencies and considered best practice by clients
+</br>• Developed a reference management process for regulatory review (used in combination with Veeva Vault), now used by several agencies
 </br>• Created promotional emails, including development of creative copy, imagery, and HTML code
 </br>• Personally designed client website, including layout design, wireframes, and creation of written/visual content
 </br>• Won two new accounts during the COVID-19 pandemic
