@@ -1,8 +1,10 @@
 ## Matt Zimmer
 
+[Projects](#projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education)| [Hobbies](#hobbies)
+
 #### Me at a glance
 
-Aspiring junior developer; amateur background in developing video-game plugins (+7 years); professional background in healthcare advertising (+5 years). Recently graduated from the [Makers Academy](https://makers.tech/) bootcamp; excited to join a friendly, ambitious team that will support me as I continue to grow and improve as a developer.
+Aspiring full stack junior developer; amateur background in developing video-game plugins (+7 years); professional background in healthcare advertising (+5 years). Recently graduated from the [Makers Academy](https://makers.tech/) bootcamp; excited to join a friendly, ambitious team that will support me as I continue to grow and improve as a developer.
 
 #### How I got here
 
@@ -10,17 +12,17 @@ Through my self-taught hobby of developing video game plugins (aka mods), I disc
 
 After several months of self-directed learning, I joined [Makers Academy](https://makers.tech/) to improve my amateur coding skills for use in a professional context, and to learn new skills and languages to make me a desirable candidate for a future employer. I am now ready for a junior developer role. I am determined and hungry for the challenge, and I am so excited to get started.
 
-### My Projects
-
-| Name                                                           | Description                                                                                                                                                                                      | Tech/Tools                                                                  |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [**Heyday**](https://github.com/Zimmja/heyday)                 | Created with a team during my Makers Academy final project, this web-app help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, EmailJS, HTML, Sass, Heroku, Vercel |
-| [**Switchwatch**](https://github.com/Zimmja/React-Stopwatch)   | A stopwatch web-app specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                                              | JavaScript, React, Node, HTML, CSS                                          |
-| [**Skyrim modding**](https://github.com/Zimmja/Skyrim-Scripts) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                   | Papyrus, Skyrim Creation, TES5Edit Kit                                      |
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimmja)
 
-### Featured Makers Challenges
+## Projects
+
+| Name                                                           | Description                                                                                                                                                                | Tech/Tools                                                                  |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [**Heyday**](https://github.com/Zimmja/heyday)                 | Makers Academy final team project: a web-app that helps groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, EmailJS, HTML, Sass, Heroku, Vercel |
+| [**Switchwatch**](https://github.com/Zimmja/React-Stopwatch)   | A stopwatch web-app specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                        | JavaScript, React, Node, HTML, CSS                                          |
+| [**Skyrim modding**](https://github.com/Zimmja/Skyrim-Scripts) | Scripts written for my various mods for the video game, Skyrim                                                                                                             | Papyrus, Skyrim Creation, TES5Edit Kit                                      |
+
+#### Featured Makers Challenges
 
 During my time at Makers Academy, I completed several pair-programming and solo challenges. The ones I found particularly educational and enjoyable are listed here.
 | Name | Aim | Description | Tech/Tools |
@@ -31,7 +33,9 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 | [**Thermostat**](https://github.com/Zimmja/Makers-challenge-Thermostat) | Pairing challenge: create and test-drive a simple JavaScript program using Node | We created a thermostat that could be interacted with via the command line and utilise API calls from OpenWeather to receive and display real-world info | JavaScript, Node, Jest, APIs |
 | [**RPS Game**](https://github.com/Zimmja/Makers-challenge-RPS) | Solo challenge: create a game that is playable in a web browser | Tasked with creating a Rock, Paper, Scissors (RPS) style game. Finished quickly and was able to stretch myself to a 16-item game (instead of the 3-item RPS game) | Ruby, Sinatra, Capybara, Selenium Webdriver, HTML, CSS, Rspec, Rubocop|
 
-### Tech stack
+## Skills
+
+### Tech skills
 
 - JavaScript (React, Node, Express, Jest)
 - Ruby (Rails, Sinatra, Rspec, Capybara)
@@ -43,15 +47,25 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact&langs_count=3&hide=html&exclude_repo=acebook-blue-magpies)](https://github.com/anuraghazra/github-readme-stats)
 
-### Skills
+### Professional skills
 
-**Understanding client needs and rapidly responding** - as an account handler, regularly took client briefs (written and spoken), quickly identified questions and issues, formulated solutions, discussed with clients and actioned under tight timelines. Example: a prospective client was dissatisfied with her current agency, I responded to her briefs, offered insights and produced an action plan rapidly and to an exceptional standard. Because of this, she skipped the usual procurement process and hired our agency outright, no pitch required.
+#### Communication
 
-**Understanding systems and developing processes** - added value to agency through strong process development. Example: A new system for medical review ([Veeva Vault](https://www.veeva.com/products/enterprise-content-management/)) was launched across the healthcare advertising industry. I rapidly developed processes for using it, allowing our agency to approve advertising materials faster than other agencies. Recognised by clients as experts on the system, and I was asked personally to teach other agencies how to use it.
+Exceptional written and verbal communication skills; understanding and responding to client goals and issues was an essential part of my role at LAB. In one example, I rapidly responded to a prospective client's verbal and written briefs with an insightful, well-written, comprehensive action plan of such an exceptional standard that she skipped the usual procurement process and hired LAB outright, replacing her then-current agency with no pitch required. During the Makers Academy final project, excellent team communication made pair-programming much easier and helped us resolve different (sometimes conflicting) ideas for the web-app's final functionality.
 
-**Problem solving** - proven track record of combining different skillsets to solve problems. Example: while in healthcare advertising, a colleague's client threatened to close their account due to our creative department's inability to present scientific information clearly and accurately. Volunteered to solve the issue myself using client brief, my scientific knowledge, writing and design (usually handled by three different departments). I found a solution in one evening, my colleague presented it, and the client remains with the agency to this day.
+#### Adaptability
 
-### Professional Experience
+When the medical review system, [Veeva Vault](https://www.veeva.com/products/enterprise-content-management/), was launched across the healthcare advertising industry, I quickly adapted to it and developed processes for my agency, LAB, to use it. This allowed LAB to approve advertisments faster than other agencies. Clients recognised LAB as Veeva experts, and I was asked personally to teach other agencies how to use it. Similarly, during my final project at Makers, my fast uptake of both ReactJS and Express (which I learnt myself as they were not taught on the course) helped me plan the structure of our web-app and tackle the hardest coding challenges of the project under a tight timeline.
+
+#### Problem solving
+
+Proven track record of combining different skillsets to solve problems. In one example while at LAB, I saved a colleague's account from leaving our agency by single-handedly solving a multidisciplinary presentation problem that required my skills in graphic design, writing and science literacy. In my hobby of video game plugin development, I developed my own methods for solving code errors, which I have since improved at Makers Academy to become a competent debugger.
+
+#### Attention to detail
+
+Proofing skills noted as impressive by clients while at LAB. Detail-orientation has been essential to my success in video game plugin development, helping me create comprehensive content changes supported by fully-documented descriptions. At both LAB and Makers Academy, I have found my attention to detail invaluable in producing robust plans, predicting (and avoiding) issues, and spotting mistakes.
+
+## Professional Experience
 
 #### Learner Adams Bones (LAB)
 
@@ -88,24 +102,28 @@ _**Case Handler**, Jan 2015 - Sep 2015_
 </br>First paid role out of university; refined communication skills
 in a short-term, intensive contract
 
-### Education and courses
+## Education
 
 _**Makers Academy** - Sep 2021 - Jan 2022_
 </br>A highly selective 4-month software engineering bootcamp:
-</br>• Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values
-</br>• Focus on becoming "language agnostic" and able to adapt to new languages with ease
-</br>• Encouraged independant learning and problem-solving
-</br>• Specifically taught Ruby (with Rspec) and JavaScript (with Jest)
-</br>• Full stack web development, including web frameworks like Ruby on Rails and ReactJs
 
-_**University of Manchester** - BSc Hones, 2011 - 2014_
-</br>2.1 in Stem Cell Biology; first class science communication project
+- Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values
+- Focus on becoming "language agnostic" and able to adapt to new languages with ease
+- Encouraged independant learning and problem-solving
+- Specifically taught Ruby (with Rspec) and JavaScript (with Jest)
+- Full stack web development, including web frameworks like Ruby on Rails and ReactJs
+
+_**University of Manchester** - BSc Hons, 2011 - 2014_
+
+- 2.1 in Stem Cell Biology
+- First class science communication project
+- Course-rep three years running
 
 _**Sherborne School** - 2005 - 2010_
 </br>A Levels: Biology (A), English (A), Chemistry (B)
 
-### Hobbies
+## Hobbies
 
-**Modding** - my main hobby is creating mod plugins for the video game, Skyrim. I've enjoyed some success in this, with 1.6 million unique downloads across 8 mods. I am currently working on my 7th update of my most popular mod, [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
+**Modding** - my main hobby is creating mod plugins for the video game, Skyrim. I've enjoyed some success in this, with over 1.6 million unique downloads across 8 mods. I am currently working on my 7th update of my most popular mod, [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
 </br>**Dog walking** - I'm lucky enough to live between three parks in South London, so grabbing a coffee and taking the dog for a walk is a great pleasure of mine
 </br>**Cooking** - my favourite thing to do on a Sunday is spend half the day creating an amazing roast dinner, preferably followed by a glass of wine and a movie
