@@ -1,6 +1,6 @@
 ## Matt Zimmer
 
-[Projects](#projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education)| [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies)
 
 #### Me at a glance
 
