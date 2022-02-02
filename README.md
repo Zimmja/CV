@@ -1,6 +1,6 @@
 ## Matt Zimmer
 
-[Projects](#projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 #### Me at a glance
 
@@ -127,3 +127,7 @@ _**Sherborne School** - 2005 - 2010_
 **Modding** - my main hobby is creating mod plugins for the video game, Skyrim. I've enjoyed some success in this, with over 1.6 million unique downloads across 8 mods. I am currently working on my 7th update of my most popular mod, [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
 </br>**Dog walking** - I'm lucky enough to live between three parks in South London, so grabbing a coffee and taking the dog for a walk is a great pleasure of mine
 </br>**Cooking** - my favourite thing to do on a Sunday is spend half the day creating an amazing roast dinner, preferably followed by a glass of wine and a movie
+
+## Contact
+
+To get in touch, please send me a message via GitHub or my [LinkedIn page](https://www.linkedin.com/in/matt-zimmer-347a08a4/).
